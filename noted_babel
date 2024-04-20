@@ -33,3 +33,6 @@ npm i -D @babel/plugin-proposal
 npx broswerslist "0.25%"
 
 For build desktop application we use electronjs framwork (https://www.electronjs.org/)
+
+--- Configure---
+sometime we need to use dynamic import by using async and await. we import only we need to use it.
