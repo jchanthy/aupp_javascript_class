@@ -1,0 +1,35 @@
+Introduction to babel
+bael t39.
+https://babeljs.io/setup
+process AST contered our code to object tree.
+AST is analys
+
+most babel is interget with react framwork.
+
+ESLint
+jsx code -> babel -> javascript code.
+
+esbuild
+https://esbuild.github.io/
+
+Small Web server for NodeJs
+http-server packege.
+ex. npm i http-server
+
+Babel is not coming by default we need to install and configure in our project.
+copy script from official website past in head in html
+configure in script tag in head in html
+call script above end body <script type="text/babel src="index.js"></script>
+
+most the time to docs in official websit. (https://babeljs.io/docs/).
+
+Using the abel CLI
+your code -> babel -> complied code.
+
+npm i -D @babel/cli @babel/core
+npm i -D @babel/reset-env
+npm i -D @babel/plugin-proposal
+
+npx broswerslist "0.25%"
+
+For build desktop application we use electronjs framwork (https://www.electronjs.org/)
