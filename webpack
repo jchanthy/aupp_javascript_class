@@ -1,0 +1,12 @@
+introdcution to Webpack
+alots js files -> webpack -> bundle.js.
+
+it mean that we have a lot of files compile to a file as bundle file.
+webpack is loaders read and pare to plugin.
+frontend <-> webpack node.js <-> backend
+
+we can customize in plugin.
+we can create webpack for dev or production
+
+
+https://vitejs.dev/
