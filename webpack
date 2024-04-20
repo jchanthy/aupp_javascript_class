@@ -10,3 +10,12 @@ we can create webpack for dev or production
 
 
 https://vitejs.dev/
+
+
+--Setup--
+install webpack to project
+npm -i -D webapack webpack-cli
+
+when we run build then it generate a new file for us by hash. 
+https://bit.ly/setup-webpack
+
