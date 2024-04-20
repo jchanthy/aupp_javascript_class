@@ -1,0 +1,6 @@
+We setup proxy becasuse we need to communication between server and frontend.
+like a midle man share services in the middle.
+
+Backend -> Frontend.
+  frontend -> backend.
+
