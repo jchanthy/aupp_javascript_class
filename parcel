@@ -1,0 +1,12 @@
+introduction to pacel
+v1.x -> parcel -> v2.beta
+
+setup parcel official website: (https://parceljs.org/).
+
+barcel have to refresh page auto for use. it have 2 reload and hot-reload. (hot reload is fresh reload)
+
+barcel give us 2 commands (serve, and build).
+after build it produce tree sacking. it to minimize our code to a file and optimize our code.
+in the .map extention it store original code.
+
+Parcel is literally zero configuration.
