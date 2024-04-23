@@ -1,3 +1,17 @@
 ---React---
 What is React?
 -- React is a JavaScript library.
+Currently, React is 18 version.
+React run with Node.js
+
+Build Small React
+
+unpkg.com/react@16/umd/react.development.js
+unpkg.com/react@16/umd/react-dom.development.js
+unpkg.com/react@16/@babel/standalone/babel.min.js
+JSX (javaScript Expresstion)
+
+has a class React.Component
+<>: is fracment. For spred data from jsx.
+
+
