@@ -14,4 +14,70 @@ JSX (javaScript Expresstion)
 has a class React.Component
 <>: is fracment. For spred data from jsx.
 
+Statefull Function Component with Hooks
+------------------
+hook api?
+what useState?
 
+useState is identify caractoractic of component.
+if we use state we need to import useState from react.
+state is re-action with component 
+
+Props
+----------
+
+prarent component pass dat to child compoent
+Prarent > child 1 > child 2 > render_name : it we call props trilling.
+
+type ccheking with Prop Types
+Parent > component
+
+prop-types package of validators for props.
+htps://bitly.com/typechecking
+
+Render
+----------
+
+list are everywhere 
+Definition: lists in React
+
+we need to use map()
+
+The Key Attribute
+---------
+we required key={obj.id} to use for ordering element.
+
+
+Fragments
+----------
+Mubliple sibling rendering 
+
+we can use <Fragment></Fragment> or <></>; if we need to style we should use <div></div> instead.
+
+tanstack.com
+
+Lifecycle of a Component
+-----------------------------
+Birth > active > dead
+
+we need lifecycle method 
+
+mounting > updating > unmounting
+
+Mounting Phase
+1. constructor()
+2. getDerivedStateFromProps()
+3. render()
+4. componentDidMount()
+
+Updating phase
+1. getDerivedStateFromProps()
+2. shouldComponentUpdate()
+3. getSnapshotBeforeUpdate()
+4. getSnapBeforeUpdate()
+
+Unmounting Phase
+1. componentWillUnmount()
+
+Side Effects & Lifecycle
+-------------------------
