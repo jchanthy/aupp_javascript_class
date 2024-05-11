@@ -81,3 +81,16 @@ Unmounting Phase
 
 Side Effects & Lifecycle
 -------------------------
+
+
+Redux
+------------------------
+we use redux to control state and maintenance code
+
+useContext and Redux
+reduser (Action>Dispatcher>Store>View)
+
+Flux
+facebook.github.io/flux
+
+what is state managment & Redux
